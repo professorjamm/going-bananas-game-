@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bruh.jpg</Source>
+      <Name>bruh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>startPng\start 1.png</Source>
+      <Name>startPng\start 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>startPng\start 2.png</Source>
+      <Name>startPng\start 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>startPng\start 3.png</Source>
+      <Name>startPng\start 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>startPng\start.png</Source>
+      <Name>startPng\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Base Room.png</Source>
+      <Name>textures\Base Room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Bookshelf.png</Source>
+      <Name>textures\Bookshelf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\bullet.png</Source>
+      <Name>textures\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\idleBan.png</Source>
+      <Name>textures\idleBan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\leftBan.png</Source>
+      <Name>textures\leftBan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\moveBan.png</Source>
+      <Name>textures\moveBan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\moveEn.png.png</Source>
+      <Name>textures\moveEn.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\rightBan.png</Source>
+      <Name>textures\rightBan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Table_H.png</Source>
+      <Name>textures\Table_H</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Table_V.png</Source>
+      <Name>textures\Table_V</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\TV.png</Source>
+      <Name>textures\TV</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Weapon (2).png</Source>
+      <Name>textures\Weapon (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Weapon.png</Source>
+      <Name>textures\Weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\HallucinationR.png</Source>
+      <Name>textures\HallucinationR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\HallucinationL.png</Source>
+      <Name>textures\HallucinationL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Pixel.png</Source>
+      <Name>textures\Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOver.jpg</Source>
+      <Name>gameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\gameOver.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>demonIdleL.png</Source>
+      <Name>demonIdleL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleL.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>demonIdleR.png</Source>
+      <Name>demonIdleR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleR.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>demonWalkL.png</Source>
+      <Name>demonWalkL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkL.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>demonWalkR.png</Source>
+      <Name>demonWalkR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkR.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Boss Room.png</Source>
+      <Name>textures\Boss Room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Boss Room.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fireball.png</Source>
+      <Name>fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\fireball.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>startPng\win.png</Source>
+      <Name>startPng\win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\win.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Corrupted.png</Source>
+      <Name>textures\Corrupted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Corrupted.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\InsaneLeft.png</Source>
+      <Name>textures\InsaneLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneLeft.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\InsaneRight.png</Source>
+      <Name>textures\InsaneRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneRight.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Bar.png</Source>
+      <Name>textures\Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bar.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\HpTxt.png</Source>
+      <Name>textures\HpTxt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HpTxt.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sanity bar.png</Source>
+      <Name>Sanity bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sanity bar.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\idleInsane.png</Source>
+      <Name>textures\idleInsane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleInsane.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Dying.png</Source>
+      <Name>Dying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Dying.xnb</Output>
+      <Time>2022-05-10T13:06:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls (2).png</Source>
+      <Name>Controls (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Controls (2).xnb</Output>
+      <Time>2022-05-12T13:07:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\ControlsCurrent.png</Source>
+      <Name>textures\ControlsCurrent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\ControlsCurrent.xnb</Output>
+      <Time>2022-05-12T13:07:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Gun.wav</Source>
+      <Name>Sounds\Gun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Gun.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Bruh.wav</Source>
+      <Name>Sounds\Bruh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Bruh.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bruhHit.wav</Source>
+      <Name>Sounds\bruhHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\bruhHit.xnb</Output>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>music\Victory.mp3</Source>
+      <Name>music\Victory</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.xnb</Output>
+      <Extra>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.wma</Extra>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>music\Boss.mp3</Source>
+      <Name>music\Boss</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.xnb</Output>
+      <Extra>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.wma</Extra>
+      <Time>2022-10-28T14:03:50.8845831-05:00</Time>
+    </Item>
+    <Item>
+      <Source>music\EerieNoise.mp3</Source>
+      <Name>music\EerieNoise</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.xnb</Output>
+      <Extra>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.wma</Extra>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>music\Menu.mp3</Source>
+      <Name>music\Menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.xnb</Output>
+      <Extra>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.wma</Extra>
+      <Time>2022-10-28T13:42:40.1512699-05:00</Time>
+    </Item>
+    <Item>
+      <Source>music\Lose.mp3</Source>
+      <Name>music\Lose</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.xnb</Output>
+      <Extra>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.wma</Extra>
+      <Time>2022-05-10T13:06:36-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2F290179-4BC2-4304-BA7E-2C722307287D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_MapContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-12-17T12:05:48.8637262-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

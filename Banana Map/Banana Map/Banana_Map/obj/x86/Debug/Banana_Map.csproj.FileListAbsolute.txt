@@ -1,0 +1,554 @@
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Base Room.xnb
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Table_H.xnb
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Bookshelf.xnb
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Table_V.xnb
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\TV.xnb
+C:\Users\169130\Desktop\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Level 1.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Bottom.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Left.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Right.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Top.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Bottom.txt
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Left.txt
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Right.txt
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Top.txt
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1.txt
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HP bar.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb
+D:\Downloads\f Banana Map 4.13.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\gameOver.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\BossMan.txt
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HP bar.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\gameOver.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Bottom.txt
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Left.txt
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Right.txt
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Top.txt
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1.txt
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\BossMan.txt
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleL.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleR.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkL.xnb
+D:\Downloads\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkR.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HP bar.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\gameOver.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleL.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleR.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkL.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkR.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Bottom.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Left.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Right.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Top.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\BossMan.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Boss Room.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\fireball.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\win.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Gun.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Bruh.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map 4.21.22\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\bruhHit.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\gameOver.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleL.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleR.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkL.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkR.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Boss Room.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\fireball.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\win.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Gun.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Bruh.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\bruhHit.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.wma
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.wma
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.wma
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.wma
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.wma
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Bottom.txt
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Left.txt
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Right.txt
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Top.txt
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1.txt
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\BossMan.txt
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Corrupted.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneLeft.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneRight.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bar.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HpTxt.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sanity bar.xnb
+D:\Downloads\Banana Map Second Last\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleInsane.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\gameOver.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleL.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleR.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkL.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkR.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Boss Room.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\fireball.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\win.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Corrupted.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneLeft.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneRight.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bar.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HpTxt.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sanity bar.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleInsane.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Dying.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Gun.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Bruh.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\bruhHit.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.xnb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.wma
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.wma
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.wma
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.wma
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.wma
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Bottom.txt
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Left.txt
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Right.txt
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Top.txt
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1.txt
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\BossMan.txt
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+D:\Downloads\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\gameOver.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleL.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleR.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkL.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkR.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Boss Room.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\fireball.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\win.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Corrupted.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneLeft.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneRight.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bar.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HpTxt.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sanity bar.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleInsane.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Dying.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Gun.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Bruh.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\bruhHit.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.wma
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.wma
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.wma
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.wma
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.wma
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Bottom.txt
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Left.txt
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Right.txt
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Top.txt
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1.txt
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\BossMan.txt
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Controls (2).xnb
+C:\Users\169130\Downloads\Banana Map Final (1)\Banana Map Final\Banana Map Second Last\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\ControlsCurrent.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleL.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleR.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkL.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkR.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Boss Room.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\fireball.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\win.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Corrupted.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneLeft.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneRight.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bar.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HpTxt.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sanity bar.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleInsane.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Dying.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Controls (2).xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\ControlsCurrent.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Gun.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Bruh.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\bruhHit.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.xnb
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.wma
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0 Bottom.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0 Left.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0 Right.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0 Top.txt
+C:\Users\faiza\Desktop\School\Game Design\Banana Gamer\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\bruh.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 1.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 2.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start 3.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\start.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Base Room.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bookshelf.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\bullet.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleBan.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\leftBan.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveBan.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\moveEn.png.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\rightBan.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_H.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Table_V.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\TV.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon (2).xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Weapon.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationR.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HallucinationL.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Pixel.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\gameOver.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleL.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonIdleR.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkL.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\demonWalkR.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Boss Room.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\fireball.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\startPng\win.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Corrupted.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneLeft.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\InsaneRight.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\Bar.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\HpTxt.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sanity bar.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\idleInsane.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Dying.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Controls (2).xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\textures\ControlsCurrent.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Gun.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\Bruh.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\Sounds\bruhHit.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.xnb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Victory.wma
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Boss.wma
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\EerieNoise.wma
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Lose.wma
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\music\Menu.wma
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Bottom.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Left.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Right.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1 Top.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 1.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\BossMan.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0 Bottom.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0 Left.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0 Right.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0 Top.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Content\levelText\Level 0.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.exe
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Banana_Map.pdb
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.csprojResolveAssemblyReference.cache
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.exe
+C:\Users\faiza\Desktop\Codin\Going Bananas\Banana Map\Banana Map\Banana_Map\obj\x86\Debug\Banana_Map.pdb
